@@ -6,7 +6,7 @@ const items = [
 "Strawberry Ice Cream",
 "Oreo Sundae",
 "Caramel Sundae",
-"Mango Ice Cream"
+"Mango Ice Cream" 
 ];
 
 const search = document.getElementById("search");
