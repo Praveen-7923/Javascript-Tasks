@@ -8,4 +8,5 @@ for (let i = 1; i <= 100; i++) {
 
 }
 
+
 document.getElementById("result").innerText = result;
